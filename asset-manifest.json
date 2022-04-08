@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Breaking-Bad-Cast/static/css/main.719b62d7.css",
+    "main.js": "/Breaking-Bad-Cast/static/js/main.db9d33e1.js",
+    "static/media/spinner.gif": "/Breaking-Bad-Cast/static/media/spinner.11d9cde8ebaeadb07ba7.gif",
+    "static/media/bg.jpg": "/Breaking-Bad-Cast/static/media/bg.085908ea8f76e1ae1806.jpg",
+    "static/media/logo.png": "/Breaking-Bad-Cast/static/media/logo.e6ecab4407f10ecd02bd.png",
+    "index.html": "/Breaking-Bad-Cast/index.html",
+    "main.719b62d7.css.map": "/Breaking-Bad-Cast/static/css/main.719b62d7.css.map",
+    "main.db9d33e1.js.map": "/Breaking-Bad-Cast/static/js/main.db9d33e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.719b62d7.css",
+    "static/js/main.db9d33e1.js"
+  ]
+}
